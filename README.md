@@ -9,3 +9,7 @@
 3 - Вариант 2: Метод расстояния Махаланобиса.
 
 КП - Вариант 4: Тетраэдр, Октаэдр, Додекаэдр
+
+## Ссылка на колаб, отображены все графики и замеры
+
+https://colab.research.google.com/drive/1pKFyCZlmLEmgenoFcz97rwjlDHJ7TQUn?usp=sharing
